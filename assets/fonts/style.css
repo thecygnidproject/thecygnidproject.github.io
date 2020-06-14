@@ -1,0 +1,25 @@
+@font-face {
+   font-family: 'Lemonchicken-WpvE';
+   font-display: swap;
+   src: url('Lemonchicken-WpvE/font.ttf');
+}
+@font-face {
+   font-family: 'NADALL';
+   font-display: swap;
+   src: url('NADALL/font.TTF');
+}
+@font-face {
+   font-family: 'LUDOVICO';
+   font-display: swap;
+   src: url('LUDOVICO/font.TTF');
+}
+@font-face {
+   font-family: 'GeosansLight';
+   font-display: swap;
+   src: url('GeosansLight/font.ttf');
+}
+@font-face {
+   font-family: 'PhosphorusSelenide';
+   font-display: swap;
+   src: url('PhosphorusSelenide/font.woff');
+}
