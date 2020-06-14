@@ -1248,12 +1248,6 @@ section.lazy-placeholder:after {
 .cid-s1QxfB2BOy .media-container-row .mbr-text {
   color: #0d0d0d;
 }
-.cid-qTkA127IK8 {
-  background-image: url("../../../assets/images/h-1-1920x1080.png");
-}
-.cid-s1PFKaLJ25 {
-  background-image: url("../../../assets/images/mbr-3-1920x1280.jpg");
-}
 .cid-s1QRIXQFGI {
   background-image: url("../../../assets/images/mbr-3-1920x1280.jpg");
 }
@@ -1281,4 +1275,10 @@ section.lazy-placeholder:after {
 }
 .cid-s1QRIXQFGI H1 {
   text-align: right;
+}
+.cid-qTkA127IK8 {
+  background-image: url("../../../assets/images/h-1-1920x1080.png");
+}
+.cid-s1PFKaLJ25 {
+  background-image: url("../../../assets/images/mbr-3-1920x1280.jpg");
 }
